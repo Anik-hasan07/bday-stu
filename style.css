@@ -165,9 +165,22 @@ h1 {
     height: 250px; /* Set a fixed height for the container */
     overflow: hidden; /* Hide any overflow */
     margin-top: 3px;
+    font-weight: 100;
   }
   .footer{
     color: aqua;
     margin-bottom: 20px;
+    margin-left: 20px;
+}
+.love-button{
+  margin-left: 20px;
+}
+.dynamic{
+  font-weight: 900;
+  font-size: larger;
+  font-size: x-large;
+}
+.countdown-container{
+  margin-top: -100px;
 }
 }
